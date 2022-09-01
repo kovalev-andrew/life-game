@@ -171,8 +171,6 @@ namespace GameOfLife
         {
             
             Random generator = new Random();
-            int virusPositionX = generator.Next(_heigth);
-            int virusPositionY = generator.Next(_width);
             int number;
             for (int i = 0; i < _heigth; i++)
             {
@@ -182,7 +180,7 @@ namespace GameOfLife
                     cells[i, j] = ((number == 0) ? 0 : 1);
                 }
             }
-            cells[virusPositionX, virusPositionY] = 2; // добавляем вирус
+            cells[generator.Next(_heigth), generator.Next(_width)] = 2; // добавляем вирус
 
         }
     }
