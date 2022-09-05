@@ -1,8 +1,0 @@
-C:\Users\asus\source\repos\Arrays\Arrays\bin\Debug\Arrays.exe.config
-C:\Users\asus\source\repos\Arrays\Arrays\bin\Debug\Arrays.exe
-C:\Users\asus\source\repos\Arrays\Arrays\bin\Debug\Arrays.pdb
-C:\Users\asus\source\repos\Arrays\Arrays\obj\Debug\Project 1.csproj.AssemblyReference.cache
-C:\Users\asus\source\repos\Arrays\Arrays\obj\Debug\Project 1.csproj.SuggestedBindingRedirects.cache
-C:\Users\asus\source\repos\Arrays\Arrays\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
-C:\Users\asus\source\repos\Arrays\Arrays\obj\Debug\Arrays.exe
-C:\Users\asus\source\repos\Arrays\Arrays\obj\Debug\Arrays.pdb
